@@ -6,6 +6,8 @@
 2. ESLint, Prettier, Husky, lint-staged preconfigued with Semi-StandardJS style.
 Code is automatically formatted on save, without changing editor settings.
 3. Include `.editorconfig` to maintain consistent style across editors.
+4. Ant Design, customizable theme via craco config and `less` file.
+5. React router V6
 
 ## Local development
 
